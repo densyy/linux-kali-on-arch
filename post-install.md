@@ -1,3 +1,3 @@
-- Rodar: sudo bash setup-blackarch.sh
-- Rodar: sudo bash install-kali.sh
-- Criar uma sessão blackarch no menu do xfce
+- Run: sudo bash setup-blackarch.sh
+- Run: sudo bash install-kali.sh
+- Create a BlackArch session in the XFCE menu
